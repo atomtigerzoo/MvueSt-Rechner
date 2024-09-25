@@ -2,7 +2,7 @@
 
 Ein Mehrwertsteuerrechner gebaut mit VueJS 3 und TailwindCSS
 
-Ausprobieren: https://mwst.atomtigerzoo.com/
+Ausprobieren: https://things.atomtigerzoo.com/mwst/
 
 ## Project Setup
 
